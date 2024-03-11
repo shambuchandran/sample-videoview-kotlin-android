@@ -1,6 +1,5 @@
 package com.example.practice4
 
-import android.media.MediaPlayer.OnPreparedListener
 import android.net.Uri
 import android.net.Uri.parse
 import android.os.Bundle
